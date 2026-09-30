@@ -44,4 +44,4 @@ I'm currently expanding my work in machine learning, big data, and cloud technol
 ## Connect With Me
 
 [LinkedIn](https://www.linkedin.com/in/deecarey)  
-[GitHub](https://github.com/stelladeecoder)
+[Email](mailto:stelladeecoder@gmail.com)
