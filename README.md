@@ -2,15 +2,16 @@
 
 I'm a data professional and M.S. Data Analytics & Big Data candidate with experience in fraud operations, quality assurance, business intelligence, and data driven process improvement.
 
-I enjoy using data to identify patterns, solve business problems, and turn analysis into practical decisions.
+I use data to identify patterns, solve business problems, and support better decisions.
 
-## What I'm Working With
+
+## Technical Skills
 
 **Languages:** Python, SQL, R  
 **Data Science:** Machine Learning, EDA, Data Cleaning, Regression, NLP  
 **Visualization & BI:** Power BI, Looker, Matplotlib, Excel  
 **Tools:** Pandas, NumPy, scikit learn, Git, GitHub, Jupyter  
-**Currently Developing:** PySpark, Apache Spark, Databricks, AWS, Azure
+**Currently Learning:** PySpark, Apache Spark, Databricks, AWS, Azure
 
 ## Featured Projects
 
